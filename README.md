@@ -19,7 +19,7 @@ Bu Python scripti, bir M3U oynatma listesindeki kanalları test eder ve çalış
 1. **Depoyu Klonlayın:**
    ```bash
    git clone https://github.com/yusiqo/m3u-kontrol.git
-   cd m3u-channel-validator
+   cd m3u-kontrol
    ```
 
 2. **Bağımlılıkları Yükleyin:**
